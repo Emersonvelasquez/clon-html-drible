@@ -1,0 +1,427 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    overflow-x: hidden;
+
+}
+
+.container{
+    width: 1431px;
+    padding: 0px 25px;
+}
+.nav{
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display:flex;
+    list-style: none;
+}
+.con{
+    padding: 0px 15px;
+    margin: 50px 0px;
+}
+.con a{
+    text-decoration: none;
+    color: black;
+}
+.dri{
+    padding: 0px 25px;
+}
+.im{
+    margin-left:50px;
+}
+.can{
+    padding: 0px 15px;
+}
+.nav1{
+    display: flex;
+    list-style: none;
+    margin: 50px 15px;
+}
+
+#clas{
+    border-radius: 20px;
+    height: 45px;
+    width: 255px;
+    margin: -10px 0px;
+    padding: 0px 35px;
+}
+#cun{
+    background-color: black;
+    border-radius: 20px;
+    height: 45px;
+    width: 115px;
+    padding: 10px;
+    text-align: center;
+    margin: -10px 0px ;
+}
+#cun a{
+    text-decoration: none;
+    color:aliceblue;
+}
+#cen a{
+    text-decoration: none;
+    color:black;
+}
+.lupe{
+    position: absolute;
+    right: 490px;
+    top: 53px;
+}
+
+
+.centro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+    padding: 0px 100px;
+}
+ .millones{
+    letter-spacing: 0.5px;
+    left: 500px;
+    background-color:rgb(249, 134, 191);
+    width: 410px;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+}
+.el{
+    margin: 40px 38.500px 24px 38.500px;
+}
+.il{
+    letter-spacing: 2.9px;
+    text-align: center;
+   font-size: 80px; 
+   height: 150px;
+   width: 800px;
+    line-height: 76px;
+    font-family: "Source Serif 4", Georgia, serif;
+}
+.ol{
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+    font-weight: 540;
+    margin: 21px 0px 36px 0px;
+}
+
+
+.lu{
+    background-color: black;
+    height: 45px;
+    width: 100px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+}
+.lu a{
+    text-decoration: none;
+    color:aliceblue;
+}
+.mercedes{
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    list-style: none;
+    position: absolute;
+    top: 250px;
+    color:aliceblue;
+}
+
+#der{
+    left: 40px;
+}
+
+.ki{
+    display: inline-block;
+    color:aliceblue;
+    background-color: transparent;
+    border-color: rgba(143, 147, 151, 0.468) ;
+    border:solid 1px;
+    padding: 9px;
+    border-radius: 15px;
+    margin: 5px;
+}
+#a{
+    left: 350px;
+}
+.as{
+    display: inline-block;
+    color:aliceblue;
+    background-color: transparent;
+    border-color: rgba(143, 147, 151, 0.468) ;
+    border:solid 1px;
+    padding: 10px;
+    border-radius: 15px;
+    margin: 5px; 
+}
+#b{
+    left: 625px;
+}
+.eb{
+    display: inline-block;
+    color:aliceblue;
+    background-color: transparent;
+    border-color: rgba(143, 147, 151, 0.468) ;
+    border:solid 1px;
+    padding: 4px;
+    border-radius: 15px;
+    margin: 5px; 
+}
+#c{
+    left: 925px;
+}
+.ec{
+    display: inline-block;
+    color:aliceblue;
+    background-color: transparent;
+    border-color: rgba(143, 147, 151, 0.468) ;
+    border:solid 1px;
+    padding: 2px;
+    border-radius: 15px;
+    margin: 5px; 
+}
+#d{
+    left: 1550px;
+}
+.ed{
+    display: inline-block;
+    color:aliceblue;
+    background-color: transparent;
+    border-color: rgba(143, 147, 151, 0.468) ;
+    border:solid 1px;
+    padding: 2px;
+    border-radius: 15px;
+    margin: 5px; 
+}
+#e{
+    left: 1245px;
+}
+.ee{
+    display: inline-block;
+    color:aliceblue;
+    background-color: transparent;
+    border-color: rgba(143, 147, 151, 0.468) ;
+    border:solid 1px;
+    padding: 2px;
+    border-radius: 15px;
+    margin: 5px; 
+}
+#f{
+    left: 1865px;
+}
+.ef{
+    display: inline-block;
+    color:aliceblue;
+    background-color: transparent;
+    border-color: rgba(143, 147, 151, 0.468) ;
+    border:solid 1px;
+    padding: 2px;
+    border-radius: 15px;
+    margin: 5px; 
+}
+#g{
+    left: 2185px;
+}
+.eg{
+    display: inline-block;
+    color:aliceblue;
+    background-color: transparent;
+    border-color: rgba(143, 147, 151, 0.468) ;
+    border:solid 1px;
+    padding:3px;
+    border-radius: 15px;
+    margin: 6px; 
+}
+#h{
+    left: 2485px;
+}
+.eh{
+    display: inline-block;
+    color:aliceblue;
+    background-color: transparent;
+    border-color: rgba(143, 147, 151, 0.468) ;
+    border:solid 1px;
+    padding: 2px;
+    border-radius: 15px;
+    margin: 5px; 
+}
+@keyframes slide {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+}
+.logos{
+    padding: 72px 0px;
+    white-space: nowrap;
+}
+
+.logos-slide{
+    display: inline-block;
+    animation: 20s slide infinite linear;
+}
+.logos-slide img{
+    margin: 0px 15px;
+    border-radius: 25px;
+}
+.ins{
+    text-align: center;
+    font-size: 50px;
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.por{
+    padding: 32px 32px 0px 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#jon{
+    border-radius: 15px;
+}
+
+.leo{
+display:flex;
+list-style: none;
+flex-direction: row;
+justify-content: center;
+align-items: end;
+margin-left: -340px;
+margin-top: 200px;
+}
+
+
+#er{
+    border-radius: 100%;
+}
+.ct{
+    background-color:rgb(168, 176, 182) ;
+    height: 20px;
+    border-radius: 2px;
+}
+.or{
+    padding: 0px 6px 0px 0px;
+}
+.ur{
+    padding: 0px 7px;
+}
+#jsjs a{
+    text-decoration: none;
+    color: black;
+}
+#jsje a{
+    text-decoration: none;
+    color:aliceblue;
+}
+.deo{
+    padding: 0px 0px 0px 65px;
+}
+
+.yamero{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+    padding: 0px 100px 100px 100px ;
+}
+.inspi{
+    border: solid 1px ;
+    background-color: transparent;
+    height: 40px;
+    width: 180px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 25px;
+    
+}
+
+.inspi a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.millones{
+    letter-spacing: 0.5px;
+    left: 500px;
+    background-color:rgb(249, 134, 191);
+    width: 410px;
+    border-radius: 25px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 600;
+}
+.elote{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 45px;
+    padding: 120px 0px ;
+    background-color: #ffda79;
+}
+.iloson{
+    letter-spacing: 2.9px;
+    text-align: center;
+   font-size: 80px; 
+   height: 150px;
+   width: 800px;
+    line-height: 76px;
+    font-family: "Source Serif 4", Georgia, serif;
+}
+.olucion{
+    padding: 40px;
+    text-align: center;
+   height: 150px;
+   width: 650px;
+   line-height: 35px;
+   font-size: 20px; 
+}
+
+.luzz{
+    padding: 30px;
+    font-size: 20px;
+}
+
+.luxx{
+    font-size: 20px;
+    background-color: black;
+    height: 45px;
+    width: 10px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 25px;
+}
+.luxx {
+    
+    text-decoration: none;
+    color:aliceblue;
+}
+.luww{
+    background-color: aliceblue;
+    height: 45px;
+    width: 100px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 25px;
+}
+.luww {
+    text-decoration: none;
+    color:black;
+}
+
+.diseno{
+    display: flex;
+    list-style: none;
+    font-size: 20px;
+    padding: 45px 0px 0px 0px;
+}
+.unete a{
+    text-decoration: none;
+    color: black;
+}
