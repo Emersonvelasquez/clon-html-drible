@@ -6,7 +6,6 @@
 
 html{
     overflow-x: hidden;
-
 }
 
 .container{
@@ -67,7 +66,7 @@ html{
 }
 .lupe{
     position: absolute;
-    right: 490px;
+    right: 470px;
     top: 53px;
 }
 
@@ -425,3 +424,104 @@ margin-top: 200px;
     text-decoration: none;
     color: black;
 }
+
+@keyframes mover {
+    from{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-100%);
+    }
+} 
+ .inferior{
+    padding: 60px 0px 0px 0px;
+    white-space: nowrap;
+}
+
+.inferior-slide{
+    
+    display: flex;
+    animation: 35s mover infinite linear;
+}
+.inferior-slide img{
+    margin: 0px 15px;
+    border-radius: 5px;
+}
+
+
+.animacion{
+   
+    display:flex;
+    list-style: none;
+    flex-direction: row;
+    align-items:flex-start;
+    margin-top: 180px;
+    }
+    .elo{
+        margin-left: -230px;
+    }
+    #kill{
+        display:flex;
+        list-style: none;
+        flex-direction: row;
+        align-items:flex-start;
+        margin-top: 180px;
+    }
+    .container4{
+        padding: 32px 94px;
+    }
+    .nav3{
+        font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        display:flex;
+        list-style: none;
+    }
+    .foo{
+        padding: 20px;
+        margin-top: 25px;
+    }
+    .foo a{
+        text-decoration: none;
+        color: black;
+        font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    }
+    .fuu{
+        padding:  0px 4px;
+        margin-top: 48px;
+    }
+    .cla{
+        margin-top: 46px;
+        padding:  0px 4px;
+    }
+    .cle{
+        margin-top: 48px;
+        padding:  0px 4px;
+    }
+    .cli{
+        margin-top: 47px;
+        padding:  0px 4px;
+    }
+
+    .container5{
+        padding: 0px 94px 54px 94px;
+    }
+    .nav4{
+        font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        display:flex;
+        list-style: none;
+    }
+    .inc{
+        color: rgb(121, 118, 118);
+        font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;     
+    }
+    #cni a{
+        text-decoration: none;
+        color: rgb(121, 118, 118);
+        font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;     
+    }
+    .inc{
+        padding: 0px 10px;
+    }
+    .ichil{
+        padding: 0px 285px 0px 10px;
+    }
+   
